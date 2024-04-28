@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rishabh.nishad.98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/14-IeN0CWiX9CoIjdTKt0TZMngxxcsjDl?usp=sharing](https://drive.google.com/drive/folders/14-IeN0CWiX9CoIjdTKt0TZMngxxcsjDl?usp=sharing)
+- 📄 Get to know me professionally [My Resume](https://drive.google.com/drive/folders/14-IeN0CWiX9CoIjdTKt0TZMngxxcsjDl?usp=sharing)
 
 - ⚡ Fun fact **I am more interested in stuff I don't know about.**
 
