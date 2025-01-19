@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nastyjack&label=Profile%20views&color=0e75b6&style=flat" alt="nastyjack" /> </p>
 
 
-- 🔭 I’m currently working on my [Self-Hosted Media Server](https://github.com/NastyJack/YAML_Configs)
+- 🔭 I’m currently working on my [Self-Hosted Media Server](nextcloud.22552255.xyz)
 
-- 🌱 I’m currently learning **Dev-Ops, Cloudflare, Docker**
+- 🌱 I’m currently learning **Dev-Ops, Cloudflare and Docker**
 
-- 💬 Ask me about **Javascript, Backend, NodeJs, Automation**
+- 💬 Ask me about **Javascript, Backend, NodeJs, IoT**
 
 - 📫 How to reach me **rishabh.nishad.98@gmail.com**
 
