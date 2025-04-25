@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nastyjack&label=Profile%20views&color=0e75b6&style=flat" alt="nastyjack" /> </p>
 
 
-- 🔭 I’m currently working on my [Self-Hosted Media Server](nextcloud.22552255.xyz)
+- 🔭 I’m currently working on my [Self-Hosted Media Server](https://nextcloud.22552255.xyz)
 
 - 🌱 I’m currently learning **Dev-Ops, Cloudflare and Docker**
 
